@@ -4,7 +4,6 @@
     "description": "A simple weight converter",
     "main": "weight-converter.js",
     "scripts": {
-      "start": "node weight-converter.js"
-    },
-    "dependencies": {}
-  }
+        "start": "node weight-converter.js"
+    }
+}
