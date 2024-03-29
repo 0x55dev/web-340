@@ -1,0 +1,15 @@
+{
+  "name": "cooking-app",
+  "version": "1.0.0",
+  "description": "Assignment 2-2 Web330",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "node tester.js"
+  },
+  "keywords": [
+    "cooking"
+  ],
+  "author": "William Renard",
+  "license": "ISC"
+}
