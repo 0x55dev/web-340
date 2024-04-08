@@ -6,9 +6,6 @@ function calculateDistance(planet1, planet2) {
   // so the email stated that we may need to multiply by -1 in order to get a positive number
   // but depending on the order of the planets we might not need to, if the subtraction is a positive number
   // then we can just return the distance seen below
-
-  planet1 = planet1;
-  planet2 = planet2;
   
   if (!(planet1 in planetDistances) || !(planet2 in planetDistances)) {
     throw new Error('Invalid planet name(s) provided');
