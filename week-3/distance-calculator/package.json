@@ -1,0 +1,20 @@
+{
+  "name": "distance-calculator",
+  "version": "1.0.0",
+  "description": "week 3 assignment",
+  "main": "distance-calculator.js",
+  "directories": {
+    "test": "test",
+    "src": "src"
+  },
+  "scripts": {
+    "start": "node src/distance-calculator.js",
+    "test": "node test/distance-calculator.spec.js"
+  },
+  "keywords": [
+    "web",
+    "340"
+  ],
+  "author": "William Renard",
+  "license": "ISC"
+}
